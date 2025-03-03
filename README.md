@@ -1,4 +1,4 @@
-# Analyzing Pizza Sales Data with MySQL
+# Pizza_Stores Sales Analysis with MySQL
 
 ## Project Overview
 
