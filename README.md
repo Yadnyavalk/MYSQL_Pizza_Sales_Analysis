@@ -67,3 +67,13 @@ The project involved writing and executing various SQL queries to extract and an
 ## Conclusion
 
 This project successfully demonstrated the use of SQL queries to analyze pizza sales data and extract valuable insights. The findings can be used to make informed business decisions regarding inventory management, marketing campaigns, and menu optimization. Further analysis could involve exploring customer segmentation, analyzing order cancellation rates, and predicting future sales trends.
+
+## Project Files
+
+Due to GitHub’s file size limit (max 25–30 MB), the full project images in PDF format are hosted externally.  
+You can view or download them from the link below:
+
+[📄 View Project PDF (Google Drive)](https://drive.google.com/drive/folders/1X7wrERo2IvhYHX-su38VehdvPuJPZXM-?lfhs=2)
+
+> **Note:** This PDF contains all the visuals, screenshots, and analysis outputs used in this project.
+
